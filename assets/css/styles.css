@@ -405,7 +405,7 @@ img {
   color: var(--title-color);
 }
 
-.social__icon{
+.social__icon, .home__icon{
   font-size: 1.2rem;
   margin-right: .25rem;
 }
